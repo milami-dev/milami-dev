@@ -1,4 +1,10 @@
-## Hi there 👋
+🚀 On my way to become a Web Developer
+- 🖥️ I've been coding for over 2 years
+- 💙 I really like programming in C#
+- 🛠️ I'm currently enhancing my JS skills
+- ⭐ You can find me on <a href=https://www.linkedin.com/in/kamila-mirek>LinkedIn</a>
+
+
 
 <!--
 **milami-dev/milami-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
